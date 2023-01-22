@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.langImg{
+   width: 2rem;
+   height: 1rem; 
+   margin: 0;
+}
+
+.landingpage-txt{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+    filter: brightness(70%);
+    margin-top: 3rem;
+    font-size: 5rem;
+
+}
+.dropdown-item:hover{
+    background-color: rgb(100, 100, 100);
+}
+
+#paimage{
+
+    background-repeat: no-repeat;
+    height: auto;
+}
+
+.cvImg{
+    clear: left;
+    float: left;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    vertical-align: auto;
+}
+.maxIconsizes{
+    max-width: 8rem;
+    max-height: 10rem;   
+}
+
+.fig:hover
+{
+    border-style:solid;
+    border-color: #ffffff;
+    border-radius: 0.5rem;
+    border-width:medium;
+    padding: 0;
+    
+}
+
+.contactSizes{
+    width: 2rem;
+    height: 2rem;
+}
+a{
+    all:unset ;
+}
+a:hover{
+    color: #002AE6;
+}
